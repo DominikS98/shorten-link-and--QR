@@ -1,6 +1,8 @@
-shorten the link and generate code QR
+in-app u can shorten the link and make from him QR 
 
-![image](https://user-images.githubusercontent.com/26320656/159130300-b054f1c6-856d-455f-8268-36f3d8912bed.png)
+![image](https://user-images.githubusercontent.com/26320656/159130393-2ad0cb6a-d4db-4333-8465-6cb36020be6c.png)
+
+live : https://mystifying-bose-0f0eb8.netlify.app/#/
 
 
 ## Project setup
