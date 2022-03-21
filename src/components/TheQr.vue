@@ -38,4 +38,22 @@ img {
   width: 200px;
   height: 200px;
 }
+@media screen and (max-width: 768px) {
+  div {
+    margin: 0;
+    width: 100%;
+    margin: 20px 0;
+    padding: 20px 0px;
+  }
+  section {
+    font-size: 15px;
+  }
+  label {
+    font-size: 18px;
+  }
+  p {
+    margin: 10px 20px;
+    font-size: 20px;
+  }
+}
 </style>
