@@ -106,4 +106,19 @@ button {
 button:hover {
   background: rgba(81, 70, 231, 0.527);
 }
+@media screen and (max-width: 768px) {
+  div {
+    margin: 0;
+  }
+  form {
+    margin: 0;
+    width: 100%;
+  }
+  .input-text {
+    font-size: 15px;
+  }
+  label {
+    font-size: 18px;
+  }
+}
 </style>
